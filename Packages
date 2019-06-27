@@ -1,0 +1,14 @@
+Package: com.weiphone.appsync
+Version: 2.3-1
+Architecture: iphoneos-arm
+Maintainer: weiphone <support@office.weiphone.com>
+Depends: mobilesubstrate
+Filename: /app.weiphone.hackyouriphone.appsync_2.3-1_iphoneos-arm.deb
+Size: 4132
+MD5sum: 80d14251cfd5e050104779bebdfeadc7
+SHA1: f025755f6cee9b17fcda522df52d8a3a587b7b87
+SHA256: f20cd14edfe9c6a3a1c4b7cfaa998616a8aebc15eff0ffc8df954021cee67ea6
+Section: Tweaks
+Description: Allows cracked apps/games to be synced with iTunes. Allows cracked apps/games to be synced with iTunes.  This version is compatible with the following Firmwares 4.x/5.x/6.x
+Author: HYI <repo@hackyouriphone.org>
+Name: AppSync for iOS 6
