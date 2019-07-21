@@ -1,0 +1,18 @@
+Package: app.weiphone.hackyouriphone.appsync
+Name: AppSync for iOS 6
+Version: 2.3-1
+Depends: mobilesubstrate
+Pre-Depends: firmware (>= 6.0)
+Conflicts: us.hackulo.appsync50plus
+Architecture: iphoneos-arm
+Author: HYI <repo@hackyouriphone.org>
+Depiction: http://apt.so/index.php?r=cydia&id=52d11cd2319a39a1658b4d24
+Section: [威锋源-应用工具]
+Description: Allows cracked apps/games to be synced with iTunes. Allows cracked apps/games to be synced with iTunes.  This version is compatible with the following Firmwares 4.x/5.x/6.x
+Maintainer: WeiPhone.com <support@office.weiphone.com>
+Tag: role::enduser
+Priority: standard
+Sponsor: WeiPhone.com <http://www.weiphone.com>
+Essential: no
+Homepage: http://apt.so/index.php?r=read&id=52d11cd2319a39a1658b4d24
+Installed-Size: 24
