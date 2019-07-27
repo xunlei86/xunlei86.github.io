@@ -1,14 +1,28 @@
-Package: com.hackyouriphone.appsync
-Version: 2.3-1
-Architecture: iphoneos-arm
-Maintainer: weiphone <support@office.weiphone.com>
-Depends: mobilesubstrate
-Filename: /appsync.deb
-Size: 4132
-MD5sum: 80d14251cfd5e050104779bebdfeadc7
-SHA1: f025755f6cee9b17fcda522df52d8a3a587b7b87
-SHA256: f20cd14edfe9c6a3a1c4b7cfaa998616a8aebc15eff0ffc8df954021cee67ea6
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
-Description: Allows cracked apps/games to be synced with iTunes. This version is compatible with the following Firmwares 4.x/5.x/6.x
-Author: HYI <repo@hackyouriphone.org>
-Name: AppSync for iOS 6
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
