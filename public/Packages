@@ -1,8 +1,8 @@
-Package: com.weiphone.appsync
+Package: com.hackyouriphone.appsync
 Version: 2.3-1
 Architecture: iphoneos-arm
 Maintainer: weiphone <support@office.weiphone.com>
-Depends: com.saurik.substrate
+Depends: mobilesubstrate
 Filename: /app.weiphone.hackyouriphone.appsync_2.3-1_iphoneos-arm.deb
 Size: 4132
 MD5sum: 80d14251cfd5e050104779bebdfeadc7
