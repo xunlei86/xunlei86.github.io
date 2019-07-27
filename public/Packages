@@ -3,7 +3,7 @@ Version: 2.3-1
 Architecture: iphoneos-arm
 Maintainer: weiphone <support@office.weiphone.com>
 Depends: mobilesubstrate
-Filename: /appsync.deb
+Filename: /app.weiphone.hackyouriphone.appsync_2.3-1_iphoneos-arm.deb
 Size: 4132
 MD5sum: 80d14251cfd5e050104779bebdfeadc7
 SHA1: f025755f6cee9b17fcda522df52d8a3a587b7b87
